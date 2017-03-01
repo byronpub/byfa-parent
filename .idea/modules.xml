@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/biz/byfa-biz/byfa-biz.iml" filepath="$PROJECT_DIR$/app/biz/byfa-biz/byfa-biz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/core/byfa-core/byfa-core.iml" filepath="$PROJECT_DIR$/app/core/byfa-core/byfa-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/byfa-parent.iml" filepath="$PROJECT_DIR$/byfa-parent.iml" />
+    </modules>
+  </component>
+</project>
